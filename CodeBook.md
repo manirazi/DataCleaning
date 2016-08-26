@@ -1,13 +1,13 @@
 # Code Book
-####This Code book is provided for:
+#### This Code book is provided for:
 * script "run_analysis.R" 
 * data set "AveragedTidyDataset.txt"
-####The raw data used by this script is available at:
+#### The raw data used by this script is available at:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
-###The inforamtion about this research study is provided in the following link:
+#### The inforamtion about this research study is provided in the following link:
 <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
-##Steps to obtain tidy data:
-1.Creating the train data set using `cbind` from following files in the following order:
+#### Steps to obtain tidy data:
+1. Creating the train data set using `cbind` from following files in the following order:
   * subject_train.txt
   * y_train.txt 
   * X_train.txt
